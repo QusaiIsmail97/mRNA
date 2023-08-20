@@ -1,0 +1,21 @@
+######################Libraries Used#########################
+Pandas: Data manipulation and analysis library .
+Scikit-learn: Machine learning library .
+Rarfile: Library for RAR archive handling .
+Numpy: Numerical computing library.
+LightGBM: Gradient boosting framework .
+CatBoost: Gradient boosting library .
+XGBoost: Gradient boosting library .
+##########################Models Explored###################
+MultiOutputRegressor: Wrapper for multi-output regression models.
+RandomForestRegressor: Random Forest regression algorithm.
+GradientBoostingRegressor: Gradient Boosting regression algorithm.
+SVR: Support Vector Regression algorithm.
+LGBMRegressor: LightGBM regression algorithm.
+CatBoostRegressor: CatBoost regression algorithm.
+XGBRegressor: XGBoost regression algorithm.
+
+
+
+
+
